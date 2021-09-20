@@ -1,4 +1,4 @@
-# README.md
+
 <h1 align="center">Hi 👋, I'm Muratcan</h1>
 <h3 align="center">Trying to be a Frontend Developer</h3>
 
