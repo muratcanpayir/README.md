@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Muratcan</h1>
-<h3 align="center">Trying to be a Frontend Developer</h3>
+<h3 align="center">Junior Frontend Developer</h3>
 
 - 🌱 I’m currently learning **React**
 
